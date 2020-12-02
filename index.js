@@ -151,7 +151,7 @@ module.exports = function BossHelper(mod) {
 	});
 
 	mod.game.on("enter_game", () => {
-		language = { "0": "en", "1": "kr", "3": "jp", "4": "de", "5": "fr", "7": "tw", "8": "ru" }[mod.game.language] || "en";
+		language = { "0": "en", "1": "kr", "3": "jp", "4": "de", "5": "fr", "7": "tw", "8": "ru" }[mod.game.language] || "es";
 	});
 
 	mod.game.me.on("change_zone", () => {

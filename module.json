@@ -1,4 +1,5 @@
 {
+    "disableAutoUpdate": false,
     "name": "Boss-Helper",
     "options": {
         "niceName": "Boss-Helper",
@@ -11,6 +12,5 @@
     "description": "Muestra información y notificaciones sobre la aparición de comerciantes, jefes mundiales y monstruos de eventos.",
     "servers": ["https://github.com/Loliconera/Boss-Helper-Spanish/archive/master.zip"],
     "supportUrl": "https://github.com/Loliconera/Boss-Helper-Spanish/issues",
-    "version": "100.2",
-    "disableAutoUpdate": false
+    "version": "12/2/2020"
 }
