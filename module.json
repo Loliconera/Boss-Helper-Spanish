@@ -10,7 +10,7 @@
     },
     "author": "HSDN / Loliconera",
     "description": "Muestra información y notificaciones sobre la aparición de comerciantes, jefes mundiales y monstruos de eventos.",
-    "servers": ["https://github.com/Loliconera/Boss-Helper-Spanish/archive/master.zip"],
+    "servers": ["https://raw.githubusercontent.com/Loliconera/Boss-Helper-Spanish/master/"],
     "supportUrl": "https://github.com/Loliconera/Boss-Helper-Spanish/issues",
-    "version": "12/2/2020"
+    "version": "100.2"
 }
