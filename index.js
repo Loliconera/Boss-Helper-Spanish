@@ -4,29 +4,29 @@ module.exports = function BossHelper(mod) {
 	const bossNames = {};
 
 	const strings = {
-		"ru": {
-			"Enabled": "Вкл.",
-			"Disabled": "Выкл.",
-			"Alert messages": "Предупреждения",
-			"Notice messages": "Уведомления",
-			"Party messages": "Сообщения в группу",
-			"Spawn messages": "Сообщения о появлении",
-			"Position markers": "Отметка позиции",
-			"Position markers cleared": "Очищена отметка позиции",
-			"Unknown parameter": "Неверный параметр",
-			"Raid Boss": "Рейдовый босс",
-			"World Boss": "Мировой босс",
-			"Merchant": "Торговец",
-			"Goblin": "Гоблин",
-			"Found": "Найден",
-			"Spawned": "Появился",
-			"Refreshed": "Обновлен",
-			"channel": "канал",
-			"no data": "нет данных",
-			"spawned at": "появился в",
-			"next": "след. в",
-			"last": "послед. в",
-			"was seen": "уже был"
+		"es": {
+			"Enabled": "Habilitado",
+			"Disabled": "Deshabilitado",
+			"Alert messages": "Mensajes de alerta",
+			"Notice messages": "Mensajes de aviso",
+			"Party messages": "Mensajes de grupo",
+			"Spawn messages": "Mensajes de generacion",
+			"Position markers": "Marcadores de posicion",
+			"Position markers cleared": "Marcadores de posicion borrados",
+			"Unknown parameter": "Parametro desconocido",
+			"Raid Boss": "Raid Boss",
+			"World Boss": "World Boss",
+			"Merchant": "Comerciante",
+			"Goblin": "Goblin",
+			"Found": "Encontrado",
+			"Spawned": "Engendrado",
+			"Refreshed": "Refrescado",
+			"channel": "canal",
+			"no data": "no ay datos",
+			"spawned at": "engendrado en",
+			"next": "siguiente",
+			"last": "ultimo",
+			"was seen": "fue visto"
 		}
 	};
 

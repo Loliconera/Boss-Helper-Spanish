@@ -7,10 +7,10 @@
         "settingsMigrator": "settings_migrator.js",
         "settingsVersion": 14
     },
-    "author": "HSDN / ZC / mopihu / Owyn / Lambda11",
-    "description": "Displays information and notifications about spawning of merchants, world bosses and event monsters.",
-    "servers": ["https://raw.githubusercontent.com/hsdn/Boss-Helper/master/"],
-    "supportUrl": "https://github.com/hsdn/Boss-Helper/issues",
+    "author": "HSDN / Loliconera",
+    "description": "Muestra información y notificaciones sobre la aparición de comerciantes, jefes mundiales y monstruos de eventos..",
+    "servers": ["https://github.com/Loliconera/Boss-Helper-Spanish/archive/master.zip"],
+    "supportUrl": "https://github.com/Loliconera/Boss-Helper-Spanish/issues",
     "version": "100.2",
     "disableAutoUpdate": false
 }
