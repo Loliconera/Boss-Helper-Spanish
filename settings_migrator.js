@@ -6,6 +6,7 @@ const DefaultSettings = {
 	"messager": true,
 	"marker": true,
 	"itemId": 88704,
+	"language": "es",
 	"logTime": 0,
 	"bosses": [
 		/* ==== Event =============================================================================================== */

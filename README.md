@@ -5,7 +5,7 @@ Cuando un NPC aparece en el rango visible, se marcará con un marcador. Idiomas 
 
 
 ## Comandos 
-/8 | Descripción de comandos 
+Toolbox(/8) | Descripción de comandos 
 --- | --- 
 **boss** | Activar/Desactivar modulo (activado por defecto). 
 **boss&nbsp;warn** | Activar/Desactivar mensajes de advertencia en la pantalla. 

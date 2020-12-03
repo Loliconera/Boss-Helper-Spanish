@@ -6,7 +6,7 @@
         "guiName": "Boss-Helper",
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js",
-        "settingsVersion": 14
+        "settingsVersion": 15
     },
     "author": "HSDN / Loliconera",
     "description": "Muestra información y notificaciones sobre la aparición de comerciantes, jefes mundiales y monstruos de eventos.",
