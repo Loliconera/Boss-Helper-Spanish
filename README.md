@@ -20,7 +20,7 @@ Toolbox(/8) | Descripción de comandos
 
 * El módulo tiene una funcionalidad incorporada de https://github.com/Lambda11/bam-hp-bar
 * Muestra los tiempos de aparición de los jefes mundiales y los comerciantes misteriosos (el comando **boss ask** ):   
-  ![](https://i.imgur.com/DgfxH5X.png)
+  ![](https://i.imgur.com/ODvJ1vA.png)
 * Merchant NPC con marcador (fácilmente visible en la distancia):   
   ![](https://i.imgur.com/tdIJKJv.png)
 * Todos los identificadores de NPC: https://raw.githubusercontent.com/neowutran/TeraDpsMeterData/master/monsters/monsters-EU-EN.xml
