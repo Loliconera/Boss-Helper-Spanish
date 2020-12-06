@@ -5,7 +5,7 @@ module.exports = function BossHelper(mod) {
 	const strings = {
 		"es": {
 			"Enabled": "Habilitado",
-			"Disabled": "Deshabilitado.",
+			"Disabled": "Deshabilitado",
 			"Alert messages": "Mensajes de alerta",
 			"Notice messages": "Mensajes de aviso",
 			"Party messages": "Mensajes de grupo",
