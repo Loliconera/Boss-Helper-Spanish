@@ -1,16 +1,19 @@
 {
-    "disableAutoUpdate": false,
-    "name": "Boss-Helper",
+    "name": "Boss-Helper NG",
     "options": {
-        "niceName": "Boss-Helper",
-        "guiName": "Boss-Helper",
+        "niceName": "BH",
+        "guiName": "Boss-Helper NG",
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js",
-        "settingsVersion": 16
+        "settingsVersion": 22
     },
     "author": "HSDN / Loliconera",
     "description": "Muestra información y notificaciones sobre la aparición de comerciantes, jefes mundiales y monstruos de eventos.",
     "servers": ["https://raw.githubusercontent.com/Loliconera/Boss-Helper-Spanish/master/"],
     "supportUrl": "https://github.com/Loliconera/Boss-Helper-Spanish/issues",
-    "version": "100.2"
+    "dependencies": {
+        "notifier": "https://raw.githubusercontent.com/SerenTera/tera-notifier/master/module.json"
+    },
+    "version": "101.2",
+    "disableAutoUpdate": false
 }
