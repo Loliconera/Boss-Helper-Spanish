@@ -8,7 +8,7 @@
         "settingsVersion": 22
     },
     "author": "HSDN / Loliconera",
-    "description": "Muestra información y notificaciones sobre la aparición de comerciantes, jefes mundiales y monstruos de eventos.",
+    "description": "Muestra información y notificaciones sobre la aparición de comerciantes, World bosses y monstruos de eventos. Traducido al Español por Loliconera",
     "servers": ["https://raw.githubusercontent.com/Loliconera/Boss-Helper-Spanish/master/"],
     "supportUrl": "https://github.com/Loliconera/Boss-Helper-Spanish/issues",
     "dependencies": {
