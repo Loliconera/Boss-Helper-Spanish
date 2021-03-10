@@ -3,7 +3,7 @@ const os = require("os");
 const strings = {
 	"es": {
 		"Enable/disable chat messages": "Activar/desactivar mensajes de chat",
-		"Enable/disable on-screen warning messages": "Activar/desactivar mensajes de advertencia en pantalla",
+		"Enable/disable on-screen warning messages": "Activar/desactivar mensajes de Advertencia en pantalla",
 		"Enable/disable on-screen notification messages": "Activar/desactivar mensajes de notificación en pantalla",
 		"Enable/disable send messages to party members": "Activar/desactivar enviar mensajes a los miembros del grupo",
 		"Enable/disable NPC Markers": "Activar/desactivar Marcadores NPC",
@@ -34,10 +34,10 @@ const strings = {
 		"Position markers": "Marcadores de posición",
 		"Position markers cleared": "Marcadores de posición borrados",
 		"Unknown parameter": "Parámetro desconocido",
-		"Raid Boss": "Raid Boss",
+		"Raid Boss": "Rally",
 		"Guild Boss": "Guild Boss",
 		"World Boss": "World Boss",
-		"Merchant": "Merchant",
+		"Merchant": "Mystery Merchant",
 		"Goblin": "Goblin",
 		"Found": "Encontrado",
 		"Spawned": "Aparecido",
@@ -112,19 +112,16 @@ module.exports = function BossHelper(mod) {
 			MSG.chat("========");
 			MSG.chat(`${MSG.BLU("mm")} - ${M("Display the spawn times of Mystery Merchants")}`);
 			MSG.chat(`${MSG.BLU("mm loc")} - ${M("Display Mystery Merchants locations of current zone")}`);
-			MSG.chat(`${MSG.BLU("mm scan")} - ${M("Search for Mystery Merchants in current zone")}`);
 			MSG.chat(`${MSG.BLU("mm stop")} - ${M("Stop search")}`);
 			MSG.chat(`${MSG.BLU("mm to ") + MSG.YEL("id")} - ${M("Teleport to specified location")}`);
 			MSG.chat("========");
 			MSG.chat(`${MSG.BLU("rb")} - ${M("Display the spawn times of Raid Bosses")}`);
 			MSG.chat(`${MSG.BLU("rb loc")} - ${M("Display Raid Bosses locations of current zone")}`);
-			MSG.chat(`${MSG.BLU("rb scan")} - ${M("Search for Raid Bosses in current zone")}`);
 			MSG.chat(`${MSG.BLU("rb stop")} - ${M("Stop search")}`);
 			MSG.chat(`${MSG.BLU("rb to ") + MSG.YEL("id")} - ${M("Teleport to specified location")}`);
 			MSG.chat("========");
 			MSG.chat(`${MSG.BLU("wb")} - ${M("Display the spawn times of World Bosses")}`);
 			MSG.chat(`${MSG.BLU("wb loc")} - ${M("Display World Bosses locations of current zone")}`);
-			MSG.chat(`${MSG.BLU("wb scan")} - ${M("Search for World Bosses in current zone")}`);
 			MSG.chat(`${MSG.BLU("wb stop")} - ${M("Stop search")}`);
 			MSG.chat(`${MSG.BLU("wb to ") + MSG.YEL("id")} - ${M("Teleport to specified location")}`);
 		},

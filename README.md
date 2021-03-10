@@ -1,11 +1,7 @@
 # Boss-Helper NG (Mystery Merchant Helper)
 
 Muestra información y notificaciones sobre la aparición de los NPC especificados en la zona (monstruo de evento / jefe mundial / jefe del gremio / comerciante).
-Cuando un NPC aparece en el rango visible, se marcará con un marcador.Hay funciones de teletransporte y búsqueda automática de NPC.Idiomas disponibles en inglés y ruso (detecta automáticamente).
-
-### Seguridad
-
-La función de búsqueda automática (el comando **scan**) es fácilmente detectable, por lo tanto, si se detecta, puede ser baneado. Utilice esta función bajo su propio riesgo.
+Cuando un NPC aparece en el rango visible, se marcará con un marcador.
 
 ## Módulo de comandos
 Toolbox(/8) | Descripción del comando
@@ -24,7 +20,6 @@ Toolbox(/8) | Descripción del comando
 Toolbox(/8) | Descripción del comando
 --- | --- 
 **mm** | Muestra los tiempos de reaparición de los Mystery Merchants. 
-**mm&nbsp;scan** | Busca Mystery Merchants en la zona actual. 
 **mm&nbsp;stop** | Detener la búsqueda. 
 **mm&nbsp;loc** | Muestra las ubicaciones de Mystery Merchants de la zona actual. 
 **mm&nbsp;to&nbsp;&lt;id&gt;** | Teletransportarse a la ubicación especificada. 
@@ -36,7 +31,6 @@ Toolbox(/8) | Descripción del comando
 Toolbox(/8) | Descripción del comando
 --- | --- 
 **wb** | Muestra los tiempos de reaparición de los World Bosses. 
-**wb&nbsp;scan** | Busca World Bosses en la zona actual. 
 **wb&nbsp;stop** | Detener la búsqueda. 
 **wb&nbsp;loc** | Muestra las ubicaciones de World Bosses de la zona actual. 
 **wb&nbsp;to&nbsp;&lt;id&gt;** | Teletransportarse a la ubicación especificada. 
